@@ -7,35 +7,35 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:49662002891:android:f872fbaa24405924587d4e",
+        "mobilesdk_app_id": "put your own key 😈",
         "android_client_info": {
           "package_name": "com.example.my_chat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "49662002891-ng3au4lpaqnaq8ab734qcvernr5203vr.apps.googleusercontent.com",
+          "client_id": "put your own key 😈",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.my_chat",
-            "certificate_hash": "5c441f1894dcf4c7c4ef958f7fc6588040026112"
+            "certificate_hash": "put your own key 😈"
           }
         },
         {
-          "client_id": "49662002891-fk387orbdrjs7pvbt3bq9nuusgce9vhq.apps.googleusercontent.com",
+          "client_id": "put your own key 😈",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD9EVwnQBFCCOLIf87fnMFEYTV3jNRaZ8M"
+          "current_key": "put your own key 😈"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "49662002891-fk387orbdrjs7pvbt3bq9nuusgce9vhq.apps.googleusercontent.com",
+              "client_id": "put your own key 😈",
               "client_type": 3
             },
             {
