@@ -1,5 +1,7 @@
 # Instant Messaging App
 
+### Video : https://www.youtube.com/watch?v=tIYpW7bJPY0&t=2649s&ab_channel=_eijiotieno
+
 This repository contains the source code of an instant messaging app built using
 the Flutter framework and powered by Firebase.
 
